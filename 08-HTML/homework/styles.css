@@ -1,0 +1,22 @@
+h1 {
+    color: yellow;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(173, 230, 17);
+    padding: 50px;
+    border: 4px dotted red;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+ background-image: url(https://www.clarin.com/img/2021/02/14/carlos-saul-menem-foto-ali___XSOdnHqFb_1200x630__1.jpg);
+ background-size: cover;
+}
